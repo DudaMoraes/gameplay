@@ -5,10 +5,10 @@ O app tem como objetivo, agendar partidas de games online com seus amigos de for
 Funciona como uma especie de agenda onde é possivel realizar as seguintes funcionalidades:
   - Filtrar partidas agendadas por uma categoria (Ranqueada, Duelo, Diversão...).
   - Agendar uma partida com seus amigos podendo estabelecer:
-    > A categoria da partida(Ranqueada, Duelo, Diversão...).
-    > Qual servidor do discord todos os amigos convidados irão se encontrar para a partida.
-    > O horario e data da partida.
-    > Uma breve descrição sobre a partida.
+    - A categoria da partida(Ranqueada, Duelo, Diversão...).
+    - Qual servidor do discord todos os amigos convidados irão se encontrar para a partida.
+    - O horario e data da partida.
+    - Uma breve descrição sobre a partida.
     
 Como dito anteriormente, todo o app é integrado ao discord, desde o seu login até outras funcionalidades presentes no app.
 
