@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+exports.CDN_IMAGE = exports.CLIENT_ID = exports.RESPONSE_TYPE = exports.SCOPE = exports.REDIRECT_URI = void 0;
+var REDIRECT_URI = 'https://auth.expo.io/@anonymous/gameplay-f1751df3-1c1e-4106-b8ba-4cd978eaec1f';
+exports.REDIRECT_URI = REDIRECT_URI;
+var SCOPE = 'identify%20email%20connections%20guilds';
+exports.SCOPE = SCOPE;
+var RESPONSE_TYPE = 'token';
+exports.RESPONSE_TYPE = RESPONSE_TYPE;
+var CLIENT_ID = '859118645455880232';
+exports.CLIENT_ID = CLIENT_ID;
+var CDN_IMAGE = 'https://cdn.discordapp.com';
+exports.CDN_IMAGE = CDN_IMAGE;
